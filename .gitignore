@@ -1,0 +1,25 @@
+#ignoring specific files
+
+.env
+
+#ignoring specific directories
+
+/logs
+
+#ignoring file extensions type
+
+*.psd
+*.log
+*-checkpoint.ipynb
+
+#ignoring specific file path
+important/superimportant/top.secret
+
+#adding an exception
+!important.log
+
+# ignoring all directories containing test
+
+**/*test
+
+# ignoring all files under different folders
