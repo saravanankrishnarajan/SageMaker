@@ -13,6 +13,7 @@ __pycache__/
 *-checkpoint.ipynb
 *-checkpoint.py
 *-checkpoint.txt
+*-checkpoint.csv
 *.env
 
 #ignoring specific file path
